@@ -17,7 +17,7 @@
 
 ```bash
 $ whoami
-> network security enthusiast · robotics builder · meepo main
+> network security enthusiast · robotics builder ·
 ```
 
 ---
