@@ -62,7 +62,7 @@ while alive():
     explore("low-level network exploitation")
     build("STM32-based autonomous robot")
     grind("CTF challenges")
-    learn() # never stop
+    learn() 
 ```
 
 ---
